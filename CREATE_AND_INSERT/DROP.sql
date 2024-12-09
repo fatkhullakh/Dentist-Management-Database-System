@@ -1,0 +1,12 @@
+DROP TABLE Appointment
+DROP TABLE ActualAvailability
+DROP TABLE PlannedAvailability
+DROP TABLE Payment
+DROP TABLE Teeth
+DROP TABLE Service
+DROP TABLE ServiceCatalog
+DROP TABLE Visit
+DROP TABLE Patient
+DROP TABLE Dentist
+DROP TABLE Customer
+DROP TABLE Clinic
